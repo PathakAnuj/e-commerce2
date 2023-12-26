@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/e-commerce2/static/css/main.2113cbc5.css",
-    "main.js": "/e-commerce2/static/js/main.2607c5b1.js",
-    "static/js/787.6afc3df7.chunk.js": "/e-commerce2/static/js/787.6afc3df7.chunk.js",
+    "main.js": "/e-commerce2/static/js/main.fd5fba2c.js",
+    "static/js/988.f52dd726.chunk.js": "/e-commerce2/static/js/988.f52dd726.chunk.js",
     "static/media/hero_image.png": "/e-commerce2/static/media/hero_image.09ff1c4114792a6143c2.png",
     "static/media/product_9.png": "/e-commerce2/static/media/product_9.c801212aa3bed83e7572.png",
     "static/media/3dTshirtHero.jpeg": "/e-commerce2/static/media/3dTshirtHero.23a8e4d6cc0a473838c8.jpeg",
@@ -46,11 +46,11 @@
     "static/media/hand_icon.png": "/e-commerce2/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/e-commerce2/index.html",
     "main.2113cbc5.css.map": "/e-commerce2/static/css/main.2113cbc5.css.map",
-    "main.2607c5b1.js.map": "/e-commerce2/static/js/main.2607c5b1.js.map",
-    "787.6afc3df7.chunk.js.map": "/e-commerce2/static/js/787.6afc3df7.chunk.js.map"
+    "main.fd5fba2c.js.map": "/e-commerce2/static/js/main.fd5fba2c.js.map",
+    "988.f52dd726.chunk.js.map": "/e-commerce2/static/js/988.f52dd726.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2113cbc5.css",
-    "static/js/main.2607c5b1.js"
+    "static/js/main.fd5fba2c.js"
   ]
 }
